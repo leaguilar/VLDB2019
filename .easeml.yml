@@ -5,5 +5,5 @@ ml:
 - mode : fp-free
 - adaptivity : full
 - steps : 32
-- dataMode : local
+- data_mode : local
 - email: leonel.aguilar.m@gmail.com
