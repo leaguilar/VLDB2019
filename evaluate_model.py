@@ -78,4 +78,4 @@ if __name__ == "__main__":
     y_pred=model.predict(x_data)
     
     #Pass predicted values to the evaluator
-    evalAccuracy(y_data,y_pred,categorical_accuracy)
+    eval_accuracy(y_data,y_pred,categorical_accuracy)
