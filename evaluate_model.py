@@ -6,7 +6,7 @@ import numpy as np
 from tensorflow.keras.preprocessing import sequence
 from tensorflow.keras.metrics import categorical_accuracy
 import pickle
-from libs.easeml import evalAccuracy
+from libs.easeml import eval_accuracy
 import argparse
 
 #Ugly Example preprocessing
